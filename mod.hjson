@@ -8,7 +8,7 @@ name: "mi2-utilities-java"
 version: 1.9.0
 
 #the minimum game build required to run this mod
-minGameVersion: 149
+minGameVersion: 146
 
 #this is a java mod
 java: true
